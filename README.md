@@ -1,2 +1,6 @@
 # Firebase-Auth
-Learning how to use Firebase Auth. The code is heavily inspired from NetNinja's Firebase Authentification tutorial Series. 
+The purpose of this project was to better understand Firebase Authentification and Firestore (Firebase's NoSQL Database option)
+<br>
+<br>
+<br>
+The code is primarily from NetNinja's Firebase Authentification tutorial Series. 
